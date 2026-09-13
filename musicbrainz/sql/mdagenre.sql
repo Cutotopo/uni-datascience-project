@@ -1,0 +1,6 @@
+CREATE TABLE musicbrainz_genre (
+    ID INTEGER PRIMARY KEY,
+    MBID TEXT,
+    GENRE_NAME TEXT,
+    TOP_LEVEL_GENRE TEXT
+)

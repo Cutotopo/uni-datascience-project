@@ -1,0 +1,15 @@
+# Python virtualenv
+.venv
+*/__pycache__
+
+# Assembled processing SQLite database
+riaadb.db*
+
+# RIAA scraping raw results
+riaascrape/riaa*
+
+# MusicBrainz dataset(s)
+musicbrainz/datasets
+
+# Compiled dataset
+outputs
